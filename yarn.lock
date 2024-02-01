@@ -2784,7 +2784,7 @@ __metadata:
   dependencies:
     "@prairielearn/tsconfig": "*"
     "@smithy/property-provider": ^2.0.15
-    "@smithy/types": ^2.6.0
+    "@smithy/types": ^2.9.1
     "@types/node": ^18.19.0
     typescript: ^5.2.2
   languageName: unknown
@@ -4273,6 +4273,15 @@ __metadata:
   dependencies:
     tslib: ^2.5.0
   checksum: 9233d1e6e414a8b807f9fe7a7c30064626f77b0242d8634b9b1c192f77b27a997a3caf90ecf7f4361d5926c9e9cc761991eecfb47bbfa6ce2be21c5533a3bea6
+  languageName: node
+  linkType: hard
+
+"@smithy/types@npm:^2.9.1":
+  version: 2.9.1
+  resolution: "@smithy/types@npm:2.9.1"
+  dependencies:
+    tslib: ^2.5.0
+  checksum: 8570affb4abb5d0ead57293977fc915d44be481120defcabb87a3fb1c7b5d2501b117835eca357b5d54ea4bbee08032f9dc3d909ecbf0abb0cec2ca9678ae7bd
   languageName: node
   linkType: hard
 
